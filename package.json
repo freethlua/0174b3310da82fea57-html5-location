@@ -7,13 +7,16 @@
   },
   "repository": "freethlua/0174b3310da82fea57-html5-location",
   "dependencies": {
+    "debounce": "^1.0.2",
     "google-maps": "^3.2.1",
+    "gps-distance": "^0.0.4",
     "linkstate": "^1.0.1",
     "preact": "^8.1.0",
     "preact-hyperscript": "^0.7.1",
     "preact-hyperscript-h": "^0.1.1"
   },
   "devDependencies": {
+    "all-the-cities": "^2.0.0",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   }
